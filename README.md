@@ -1,1 +1,2 @@
 # Odin-Recipes
+This is my first project and just putting together the baiscs of what I have learned do far including, adding ordered and unordered lists, adding hyperlinks, adding images, text, headings and understanding the basic boilerplate html. This was a good first project to practice and I enjoyed creating it, I also did some of my own research on how to include image hyperlinks for the homepage menu.
